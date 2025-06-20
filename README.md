@@ -1,8 +1,8 @@
 # 👨🏻‍💻 About Me
 
 💡 I am **Shaik Sadiq**, a dedicated Frontend Developer & UI/UX Designer with over **6 months of valuable internship experience**.  
-💻 I have honed my skills in Front-End Development, crafting exceptional UI/UX for websites and mobile applications, social media design, graphic design, and WordPress development.  
-🎓 I'm a graduate of **ITM University, Gwalior** (B.Tech in Computer Science and Engineering, Batch of 2020–2024).  
+💻 I have honed my skills in Front-End Development, crafting exceptional UI/UX for websites and mobile applications, social media design, graphic design, WordPress and Wix development.  
+🎓 I'm a graduate of **ITM University, Gwalior** (B.Tech in Computer Science and Engineering, Batch of 2022–2026).  
 🌱 I'm currently learning more about **Full-stack Web Development**.  
 ✍️ In my free time, I enjoy **jogging, exploring trending design concepts, traveling, biking**, and much more.  
 💬 Feel free to reach out to me for general or technical discussions!  
@@ -28,8 +28,8 @@
 
 ## 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rohitdubey1352)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rohitdubey1352@gmail.com)  
-[![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)](https://www.figma.com/@rohitdubey1352)  
-[![Dribbble](https://img.shields.io/badge/-Dribbble-pink?style=flat-square&logo=dribbble)](https://dribbble.com/rohitdubey1352)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)] 
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shaiksadiq78654@gmial.com)  
+[![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)] 
+[![Dribbble](https://img.shields.io/badge/-Dribbble-pink?style=flat-square&logo=dribbble)]  
 [![Developer Profile](https://img.shields.io/badge/-Developer--Profile-blueviolet?style=flat-square)](#) <!-- Add your actual dev profile link -->
