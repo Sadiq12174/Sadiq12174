@@ -28,8 +28,8 @@
 
 ## 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)] 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shaiksadiq78654@gmial.com)  
-[![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)] 
-[![Dribbble](https://img.shields.io/badge/-Dribbble-pink?style=flat-square&logo=dribbble)]  
-[![Developer Profile](https://img.shields.io/badge/-Developer--Profile-blueviolet?style=flat-square)](#) <!-- Add your actual dev profile link -->
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin) 
+![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)(mailto:shaiksadiq78654@gmial.com)  
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma) 
+![Dribbble](https://img.shields.io/badge/-Dribbble-pink?style=flat-square&logo=dribbble)  
+![Developer Profile](https://img.shields.io/badge/-Developer--Profile-blueviolet?style=flat-square)(#) <!-- Add your actual dev profile link -->
