@@ -1,6 +1,6 @@
 # 👨🏻‍💻 About Me
 
-💡 I am **Shaik Sadiq**, a dedicated Frontend Developer & UI/UX Designer with over **6 months of valuable internship experience**.  
+💡 I am **Shaik Sadiq**, a dedicated Java Full Stack Developer & UI/UX Designer with over **4 months of valuable internship experience**.  
 💻 I have honed my skills in Front-End Development, crafting exceptional UI/UX for websites and mobile applications, social media design, graphic design, WordPress and Wix development.  
 🎓 I'm a graduate of **ITM University, Gwalior** (B.Tech in Computer Science and Engineering, Batch of 2022–2026).  
 🌱 I'm currently learning more about **Full-stack Web Development**.  
